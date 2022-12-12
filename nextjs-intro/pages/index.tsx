@@ -19,7 +19,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.blog.naver.com/jga503"> Yongjun's page!</a>
+          Welcome to <a href="https://blog.naver.com/jga503"> Yongjun's page!</a>
         </h1>
 
         <p className={styles.description}>
